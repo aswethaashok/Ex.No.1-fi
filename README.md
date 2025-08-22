@@ -19,7 +19,7 @@ Generative AI refers to algorithms that can generate new content, including text
 # 1.1. Definition
 Generative AI systems are designed to understand and mimic patterns in existing data to produce new, synthetic examples that resemble the training data.
  
-<img width="523" height="409" alt="Screenshot 2025-08-19 154210" src="https://github.com/user-attachments/assets/b55e4e69-77fe-48cc-9c54-3427fbce9537" />
+<img width="1800" height="1000" alt="image" src="https://github.com/user-attachments/assets/ee7ff37f-8a39-498e-84c3-a0ff370a7370" />
 
 # 1.2. Types of Generative Models
 Generative Adversarial Networks (GANs): Consist of two neural networks, a generator and a discriminator, that are trained simultaneously. The generator creates new data, while the discriminator evaluates its authenticity.
@@ -37,7 +37,7 @@ Generative models learn by analyzing large datasets, adjusting their parameters 
 2.1. Overview of Transformers
 Transformers are a specific architecture designed to handle sequential data, eliminating the limitations of previous recurrent neural networks (RNNs). They enable parallel processing of data, significantly improving training efficiency.
 
-<img width="925" height="351" alt="Screenshot 2025-08-19 154254" src="https://github.com/user-attachments/assets/34ad2ce0-b227-4c6d-9f70-43449f28a7e7" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/525351ba-5bf0-4868-a99a-29ea1863f9de" />
 
 2.2. Components of Transformers
 Encoder-Decoder Structure: The encoder processes input data, while the decoder generates output data based on the encoder’s output.
@@ -112,7 +112,7 @@ Interdisciplinary Applications: Increasing collaboration between AI and fields l
 
 # Growth over the years
 
-  <img width="1041" height="567" alt="Screenshot 2025-08-19 154442" src="https://github.com/user-attachments/assets/02ee482c-3b5d-40c4-963c-376dd359f70b" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/5f6c1523-33d9-440f-bb2f-10dd15afe6b4" />
 
 # Conclusion
 Generative AI stands at the forefront of technological innovation, offering transformative capabilities across various domains. By leveraging advanced architectures like transformers and understanding the implications of scaling, researchers and practitioners can harness the potential of generative models responsibly and effectively. The continued evolution of this field promises exciting advancements that can reshape industries and everyday experiences.
